@@ -1,0 +1,11 @@
+{
+    "description": "My portfolio made with Astro",
+    "repo": "https://github.com/davidzz-code/portfolio.git",
+    "owner": {
+        "username": "davidzz-code",
+        "email": "rrdavid08@gmail.com",
+    },
+    "record": {
+        "URL": "https://davidramirez.netlify.app/"
+    }
+}
